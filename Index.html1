@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brand Portfolio — HisWill Homes Print and Stores">
+    <title>HisWill Homes Print and Stores — Brand Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; }
+        header { background: #004466; color: white; padding: 20px 0; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 40px 20px; max-width: 900px; margin: auto; }
+        h1, h2, h3 { color: #004466; }
+        footer { background: #004466; color: white; text-align: center; padding: 10px 0; }
+        ul { line-height: 1.8; }
+        .cta { background: #0099cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>HisWill Homes Print and Stores</h1>
+    <p>Cybersecurity Solutions & Creative Design Services</p>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="home">
+    <h2>Welcome</h2>
+    <p>"Securing Digital Spaces & Creative Brands under the HisWill Vision."</p>
+    <a href="#projects" class="cta">View Our Work</a>
+</section>
+
+<section id="about">
+    <h2>About — HisWill Homes Print and Stores</h2>
+    <p><strong>HisWill Homes Print and Stores</strong> is a multidisciplinary brand combining cybersecurity, creative design, and business solutions.</p>
+    <p>We lead two flagship products:</p>
+    <ul>
+        <li><strong>CyberClinic</strong> — Cybersecurity awareness, ethical hacking, and digital security services.</li>
+        <li><strong>HiswillGraphics</strong> — Creative design, brand identity development, and digital content creation.</li>
+         </ul>
+    <p>With a foundation in <strong>Health Science & Technology</strong>, we merge technical skills with creative strategy to build secure, impactful brands.</p>
+</section>
+
+<section id="skills">
+    <h2>Our Skills & Tools</h2>
+    <ul>
+        <li><strong>Cybersecurity Tools:</strong> Nmap, Burp Suite, OWASP Zap, Nikto, Netcat</li>
+        <li><strong>Branding & Content Creation:</strong> Canva, Adobe Express, Creative Writing, Visual Strategy</li>
+        <li><strong>Business Strategy:</strong> Brand Development, Social Media Marketing, Digital Communication</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Featured Projects</h2>
+    
+    <h3>CyberClinic — Cybersecurity Initiative</h3>
+    <p><strong>Project:</strong> Cybersecurity Awareness & Consulting</p>
+    <p><strong>Focus:</strong> Training, Digital Security Assessments, Social Media Campaigns</p>
+    <p><strong>Tools:</strong> Burp Suite, Canva, LinkedIn Strategy</p>
+
+    <h3>HiswillGraphics — Design & Branding</h3>
+    <p><strong>Project:</strong> Brand Identity & Social Media Design</p>
+    <p><strong>Focus:</strong> Logo Creation, Flyer Design, Digital Brand Strategy</p>
+    <p><strong>Tools:</strong> Canva, Adobe Express</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Email:</strong> hiswilltech@email.com</p>
+    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/-opara-tochukwu-9055b8295" target="_blank">https://linkedin.com/in/yourprofile</a></p>
+    <p><strong>X (Twitter):</strong> <a href="https://twitter.com/hiswill_stores" target="_blank">@yourhandle</a></p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/message/EOHHFM6PVXLRD1" target="_blank">Chat on WhatsApp</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2025 HisWill Homes Print and Stores. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
+
